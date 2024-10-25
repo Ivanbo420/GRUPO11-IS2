@@ -1,10 +1,14 @@
 ## Activar entorno virtual
 
-Una vez dentro de la carpeta Backend, ejecuta el comando venv\Scripts\activate desde la terminal de Python.
+Una vez dentro de la carpeta Backend, ejecuta el comando desde la terminal de Python:
+
+venv\Scripts\activate
 
 ## Correr el Backend
 
-Ejecuta el comando python manage.py runserver. Navega a la URL http://localhost:8000/ para verificar que el Backend este corriendo y mostrando los directorios y API
+Ejecuta el comando: python manage.py runserver 
+
+Luego, navega a la URL http://localhost:8000/ para verificar que el Backend este corriendo y mostrando los directorios y API
 
 ## Formulario de Login
 
